@@ -4,7 +4,7 @@
 https://github.com/omerfarukkpala/omerfarukkpala.github.io/assets/101570820/cacc444b-dab9-446c-b5c6-320f9ada9b2d
 
 
-## Genesis Web Project Web Coding - Beginning : Html5, Css3, JS, Grid, Flexbox, Scroll Reveal, FancyBox 
+## Html5, Css3, JS, Grid, Flexbox, Scroll Reveal, FancyBox 
 # Home ![image](https://github.com/omerfarukkpala/omerfarukkpala.github.io/assets/101570820/4e2f8c3c-ad86-4c4a-98a6-8f148e588940)
 # About ![image](https://github.com/omerfarukkpala/omerfarukkpala.github.io/assets/101570820/da3f5e70-2f43-44ee-83b8-596f31b23599)
 # Services ![image](https://github.com/omerfarukkpala/omerfarukkpala.github.io/assets/101570820/c244006c-f15d-4ab3-84a5-abf07d2f0a75)
